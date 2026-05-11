@@ -28,17 +28,10 @@ Beyond ERP, I am an engineer passionate about building efficient, enterprise-gra
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifechukwudei-Nwoko&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifechukwudei-Nwoko&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/ifechukwudei)
-- 📧 **Email:** [your.email@example.com](mailto:ifechukwudei.nwoko@amtdigital.io)
+- 💼 **LinkedIn:** [www.linkedin.com/in/ifechukwudei](www.linkedin.com/in/ifechukwudei)
+- 📧 **Email:** [ifechukwudei.nwoko@amtdigital.io](mailto:ifechukwudei.nwoko@amtdigital.io)
 
 ---
 *“Leveraging technology to solve complex business challenges and deliver tailored automation.”*
